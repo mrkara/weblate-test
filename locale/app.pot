@@ -1,0 +1,492 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: casper-explorer-web\n"
+"mime-version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1)\n"
+"POT-Creation-Date: 2021-08-05T15:40:58.007Z\n"
+"PO-Revision-Date: 2021-08-05T15:40:58.007Z\n"
+
+msgid ""
+"<0>You're signed in with a web account.</0> <2>Sign out</2> and connect a compatible "
+"wallet like Signer or Ledger to continue."
+msgstr ""
+"<0>You're signed in with a web account.</0> <2>Sign out</2> and connect a compatible "
+"wallet like Signer or Ledger to continue."
+
+msgid ""
+"<0>Your Signer extension is out of date.</0> <2>Update</2> to the latest version of "
+"Signer to continue."
+msgstr ""
+"<0>Your Signer extension is out of date.</0> <2>Update</2> to the latest version of "
+"Signer to continue."
+
+msgid ""
+"<0>Insufficient balance.</0> System requires {motesToCSPR(MINIMUM_BALANCE)}CSPR minimum "
+"balance."
+msgstr ""
+"<0>Insufficient balance.</0> System requires {motesToCSPR(MINIMUM_BALANCE)}CSPR minimum "
+"balance."
+
+msgid "Validator"
+msgstr "Validator"
+
+msgid "Amount"
+msgstr "Amount"
+
+msgid "Actions"
+msgstr "Actions"
+
+msgid "Deploy Hash"
+msgstr "Deploy Hash"
+
+msgid "Block Hash"
+msgstr "Block Hash"
+
+msgid "Age"
+msgstr "Age"
+
+msgid "Cost"
+msgstr "Cost"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Public Key"
+msgstr "Public Key"
+
+msgid "Account Hash"
+msgstr "Account Hash"
+
+msgid "Liquid Account Balance"
+msgstr "Liquid Account Balance"
+
+msgid "Delegated Account Balance"
+msgstr "Delegated Account Balance"
+
+msgid "Total rewards received"
+msgstr "Total rewards received"
+
+msgid "Raw Data"
+msgstr "Raw Data"
+
+msgid "Hide raw data"
+msgstr "Hide raw data"
+
+msgid "Show raw data"
+msgstr "Show raw data"
+
+msgid "Era"
+msgstr "Era"
+
+msgid "Timestamp"
+msgstr "Timestamp"
+
+msgid "Value (USD)"
+msgstr "Value (USD)"
+
+msgid "Present Value (USD)"
+msgstr "Present Value (USD)"
+
+msgid "From (Account Hash)"
+msgstr "From (Account Hash)"
+
+msgid "To (Account Hash)"
+msgstr "To (Account Hash)"
+
+msgid "Transfer ID"
+msgstr "Transfer ID"
+
+msgid "Block Height"
+msgstr "Block Height"
+
+msgid "Parent Hash"
+msgstr "Parent Hash"
+
+msgid "State Root Hash"
+msgstr "State Root Hash"
+
+msgid "Deploys"
+msgstr "Deploys"
+
+msgid "create-account-download-keys-success"
+msgstr ""
+"Your keys have been downloaded in three separate files. Keep these files in a secure "
+"location and never share your secret key with anyone."
+
+msgid "Download Keys"
+msgstr "Download Keys"
+
+msgid "Downloaded"
+msgstr "Downloaded"
+
+msgid "Continue"
+msgstr "Continue"
+
+msgid "Account"
+msgstr ""
+
+msgid "Amount delegated"
+msgstr ""
+
+msgid "Transaction fee"
+msgstr ""
+
+msgid "Total"
+msgstr ""
+
+msgid "Deploy hash:"
+msgstr "Deploy hash:"
+
+msgid "Successfully Sent"
+msgstr "Successfully Sent"
+
+msgid "After inclusion in a new block, you can review the <2>Deploy Details</2>"
+msgstr "After inclusion in a new block, you can review the <2>Deploy Details</2>"
+
+msgid "Make another delegation"
+msgstr "Make another delegation"
+
+msgid "Back to home"
+msgstr "Back to home"
+
+msgid "Confirm delegation"
+msgstr "Confirm delegation"
+
+msgid "You’ll delegate"
+msgstr ""
+
+msgid "Please note"
+msgstr "Please note"
+
+msgid ""
+"There is a {config.delegate_delay} era delay before your funds are staked. Once they are "
+"staked, you will need to undelegate in order to have them become liquid again. There is a "
+"{config.undelegate_delay} era delay to undelegate. Era duration is approximately "
+"{config.era_duration} minutes."
+msgstr ""
+"There is a {config.delegate_delay} era delay before your funds are staked. Once they are "
+"staked, you will need to undelegate in order to have them become liquid again. There is a "
+"{config.undelegate_delay} era delay to undelegate. Era duration is approximately "
+"{config.era_duration} minutes."
+
+msgid "Confirm and delegate stake"
+msgstr "Confirm and delegate stake"
+
+msgid "Amount must be more than zero."
+msgstr ""
+
+msgid "Not enough balance."
+msgstr ""
+
+msgid "Delegation details"
+msgstr "Delegation details"
+
+msgid "Delegate max"
+msgstr ""
+
+msgid "Next"
+msgstr "Next"
+
+msgid "Confirm"
+msgstr ""
+
+msgid "Sign"
+msgstr ""
+
+msgid "Done"
+msgstr ""
+
+msgid "Sign delegation"
+msgstr "Sign delegation"
+
+msgid "Deploy hash"
+msgstr "Deploy hash"
+
+msgid "Sign with Casper Signer and follow the instructions."
+msgstr "Sign with Casper Signer and follow the instructions."
+
+msgid ""
+"CSPR.live never accesses, saves, stores, or transmits your secret key. You need to sign "
+"each transaction in order to send it to the Casper Network."
+msgstr ""
+"CSPR.live never accesses, saves, stores, or transmits your secret key. You need to sign "
+"each transaction in order to send it to the Casper Network."
+
+msgid "<0>Transaction submitted.</0> Awaiting your approval"
+msgstr "<0>Transaction submitted.</0> Awaiting your approval"
+
+msgid "<0>Transaction was rejected.</0> Re-send the sign prompt using the button below."
+msgstr "<0>Transaction was rejected.</0> Re-send the sign prompt using the button below."
+
+msgid "Transfers"
+msgstr "Transfers"
+
+msgid "Request tokens"
+msgstr "Request tokens"
+
+msgid "{formatNumber(itemCount)} total rows"
+msgstr "{formatNumber(itemCount)} total rows"
+
+msgid "Recent faucet requests"
+msgstr "Recent faucet requests"
+
+msgid "Active Validators"
+msgstr "Active Validators"
+
+msgid "Total Stake Bonded"
+msgstr "Total Stake Bonded"
+
+msgid "Circulating Supply"
+msgstr "Circulating Supply"
+
+msgid "Validator Auction"
+msgstr "Validator Auction"
+
+msgid "View all validators"
+msgstr "View all validators"
+
+msgid "Latest Blocks"
+msgstr "Latest Blocks"
+
+msgid "View Block"
+msgid_plural "View Block"
+msgstr[0] "View Block"
+msgstr[1] "View Blocks"
+
+msgid "Fee"
+msgstr "Fee"
+
+msgid "Total Stake"
+msgstr "Total Stake"
+
+msgid "Nothing was found"
+msgstr "Nothing was found"
+
+msgid "Try to search again using the search bar above"
+msgstr "Try to search again using the search bar above"
+
+msgid "Node ID"
+msgstr "Node ID"
+
+msgid "Address"
+msgstr "Address"
+
+msgid "Step 1 / 2"
+msgstr "Step 1 / 2"
+
+msgid "Connect & unlock your Ledger"
+msgstr "Connect & unlock your Ledger"
+
+msgid ""
+"Please open the Casper app on your Ledger device and follow the on-screen instructions to "
+"add this account."
+msgstr ""
+"Please open the Casper app on your Ledger device and follow the on-screen instructions to "
+"add this account."
+
+msgid "Connect to Ledger Wallet"
+msgstr "Connect to Ledger Wallet"
+
+msgid "Loading..."
+msgstr "Loading..."
+
+msgid "Step 2 / 2"
+msgstr "Step 2 / 2"
+
+msgid "Select account"
+msgstr "Select account"
+
+msgid "Balance"
+msgstr "Balance"
+
+msgid "Generate fresh address"
+msgstr "Generate fresh address"
+
+msgid "Not seeing what you expected?"
+msgstr "Not seeing what you expected?"
+
+msgid "Start again"
+msgstr "Start again"
+
+msgid "Sign In"
+msgstr "Sign In"
+
+msgid "Download Signer"
+msgstr "Download Signer"
+
+msgid "Ledger"
+msgstr ""
+
+msgid "Connect and sign in with your Ledger wallet"
+msgstr ""
+
+msgid "Connect"
+msgstr "Connect"
+
+msgid "COMING SOON"
+msgstr "COMING SOON"
+
+msgid "View Address"
+msgstr "View Address"
+
+msgid "View your account and balances using only your address"
+msgstr ""
+
+msgid "Don’t have an account yet?"
+msgstr "Don’t have an account yet?"
+
+msgid "Create account"
+msgstr "Create account"
+
+msgid "Transfer completed!"
+msgstr "Transfer completed!"
+
+msgid "Sender"
+msgstr "Sender"
+
+msgid "Recipient"
+msgstr "Recipient"
+
+msgid "Amount sent"
+msgstr ""
+
+msgid "Make another transfer"
+msgstr "Make another transfer"
+
+msgid "Confirm transfer"
+msgstr "Confirm transfer"
+
+msgid "You’ll send"
+msgstr ""
+
+msgid "Confirm and transfer"
+msgstr "Confirm and transfer"
+
+msgid "Transfer details"
+msgstr "Transfer details"
+
+msgid "Enter address or contact"
+msgstr ""
+
+msgid "Send max amount"
+msgstr ""
+
+msgid "Transfer ID (Memo)"
+msgstr "Transfer ID (Memo)"
+
+msgid "Enter numeric value"
+msgstr ""
+
+msgid "Sign with Ledger"
+msgstr ""
+
+msgid "Sign with Casper Signer"
+msgstr ""
+
+msgid "Txn hash"
+msgstr ""
+
+msgid "From"
+msgstr ""
+
+msgid "Recipient public key (not displayed on Ledger)"
+msgstr ""
+
+msgid "Target"
+msgstr ""
+
+msgid "Recipient public key"
+msgstr ""
+
+msgid "Recipient account hash"
+msgstr ""
+
+msgid "Transfer Amount"
+msgstr ""
+
+msgid "your Ledger device"
+msgstr ""
+
+msgid "the Casper Signer"
+msgstr ""
+
+msgid "Sign transaction"
+msgstr "Sign transaction"
+
+msgid "Click the <1>{signButtonLabel}</1> button."
+msgstr "Click the <1>{signButtonLabel}</1> button."
+
+msgid ""
+"Before confirming your transaction on {walletType}, make sure the values displayed on "
+"{walletType} match the values displayed above."
+msgstr ""
+"Before confirming your transaction on {walletType}, make sure the values displayed on "
+"{walletType} match the values displayed above."
+
+msgid "Undelegation completed!"
+msgstr "Undelegation completed!"
+
+msgid "Amount undelegated"
+msgstr ""
+
+msgid "Make another undelegation"
+msgstr "Make another undelegation"
+
+msgid "Confirm undelegation"
+msgstr "Confirm undelegation"
+
+msgid "Confirm and undelegate stake"
+msgstr "Confirm and undelegate stake"
+
+msgid "Undelegation details"
+msgstr "Undelegation details"
+
+msgid "Sign undelegation"
+msgstr "Sign undelegation"
+
+msgid "Delegators"
+msgstr "Delegators"
+
+msgid "Self %"
+msgstr "Self %"
+
+msgid "Validators"
+msgstr "Validators"
+
+msgid "Validators Auction"
+msgstr "Validators Auction"
+
+msgid "Blocks"
+msgstr ""
+
+msgid "Rewards"
+msgstr ""
+
+msgid "Delegator Public Key"
+msgstr "Delegator Public Key"
+
+msgid "Weight"
+msgstr "Weight"
+
+msgid "Total validator rewards"
+msgstr "Total validator rewards"
+
+msgid "Total delegator rewards"
+msgstr "Total delegator rewards"
+
+msgid "Commission Rate"
+msgstr "Commission Rate"
+
+msgid "Self Stake"
+msgstr "Self Stake"
+
+msgid "% Of Network"
+msgstr "% Of Network"
+
+msgid "Current Era"
+msgstr "Current Era"
+
+msgid "Enter an address"
+msgstr "Enter an address"
